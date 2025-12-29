@@ -15,3 +15,6 @@ pillow
 pytesseract
 pdf2image
 requests
+pdfplumber
+faiss-cpu
+groq
