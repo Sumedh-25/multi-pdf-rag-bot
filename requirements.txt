@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-groq
+sentence-transformers
+chromadb
+pypdf
+unstructured
+pillow
+pytesseract
+pdf2image
+requests
